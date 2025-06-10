@@ -1,0 +1,15 @@
+/* style.cssでのスタイル適用 */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #5C4033; /* アクセントカラー2 */
+    margin: 40px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.highlight {
+    font-weight: bold;
+    color: #A0522D; /* アクセントカラー1 */
+}
